@@ -23,7 +23,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/samsung/cooper" name="vo-1/android_device_samsung_cooper_cyantux" />
+  <project path="device/samsung/cooper" name="vo-1/android_device_samsung_cooper" />
   <project path="device/samsung/gio" name="tuxkids/android_device_samsung_gio_cyantux" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
