@@ -206,7 +206,7 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
+  <project path="packages/apps/PHOENIXWallpapers" name="CyanoSpaceMod/android_packages_apps_PHOENIXWallpapers" revision="master" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
@@ -222,7 +222,7 @@
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
+  <project path="packages/apps/Phone" name="CyanoSpaceMod/android_packages_apps_Phone" revision="ics" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
@@ -260,7 +260,7 @@
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
+  <project path="vendor/cm" name="CyanoSpaceMod/android_vendor_cm" revision="ics" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
@@ -270,6 +270,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+  <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" revision="ics" />
   <project path="vendor/sony/kumquat" name="CyanoSpaceMod/android_vendor_sony_kumquat_csm9" revision="master" />
   <project path="vendor/sony/montblanc-common" name="CyanoSpaceMod/android_vendor_montblanc_common_csm9" revision="master" />  
   <project path="kernel/semc/msm7x30" name="CyanogenMod/semc-kernel-msm7x30" remote="github" revision="ics" />
@@ -284,5 +285,5 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="CyanoSpaceMod/android" revision="ics" />
 </manifest>
