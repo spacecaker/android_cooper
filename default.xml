@@ -34,7 +34,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/semc/zeus" name="CyanogenMod/android_device_semc_zeus" remote="github" revision="ics" />
+  <project path="device/semc/zeus" name="CyanoSpaceMod/android_device_semc_zeus_CSM9" revision="master" />
   <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" remote="github" revision="ics" />
   <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" remote="github" revision="ics" />
   <project path="hardware/somc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="ics" />
